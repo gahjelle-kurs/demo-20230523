@@ -6,8 +6,9 @@ Backup og sporing av endringer: Grunnleggende Git
 – Hvilke filer monitoreres av Git?
 
 Deling og samarbeid med andre: GitHub
+
 – Oversikt over GitHub
-– clone, pull, push
+– Kommandoer: clone, pull, push
 – Alternativer til GitHub
 
 Arbeidsflyt i Git og GitHub
